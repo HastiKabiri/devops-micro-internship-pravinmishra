@@ -20,8 +20,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
-Add your screenshot here.
-
+![](screenshots/Assing%204%20pics/scre%201.png)
 ---
 
 # Task 2 — Compare the Agent Configurations
@@ -34,33 +33,36 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 #### 1. Why does the cost optimizer use Haiku instead of Sonnet?
 
-Add your answer here...
+Haiku is utilized by cost optimizers in place of Sonnet because it helps to save costs, gives response time that is way quicker and possesses adequate power for simple tasks, thereby making Sonnet unnecessary.
 
 ---
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
-Add your answer here...
+The tools used by the security auditor do not allow writing in order to ensure security and to avoid any changes that may be deliberate or unintended. The auditor works only in read-only mode, so that it can analyze any code, configure or infrastructure without the risk of making any changes to the code, corrupt the data, or cause instability.
 
 ---
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
-Add your answer here...
+In the `tf-writer`, there is an architectural preference for using the word `inherit` over just tying it to one particular model. The following are the main reasons:
 
+- The Aspect of Flexibility:** The usage of `inherit` enables the writing tool to automatically select the model used in either the parent session, the CLI or a more general configuration.
+- The Aspect of Configuration:** When it comes to selecting a particular model (like Sonnet or Haiku), the change can be made only at the parent level or that of the orchestrator.
+- The Aspect of Consistency in Workflow:** The utilization of `inherit` ensures that the creation of text is carried out under the same model levels, costs, and context as the overall workflow.
 ---
 
 ### Evidence
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
+![](screenshots/Assing%204%20pics/scre%202.png)
 
 ---
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
+![](screenshots/Assing%204%20pics/scre%203.png)
 
 ---
 
@@ -74,13 +76,13 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
-Add your screenshot here.
+![](screenshots/Assing%204%20pics/scre%204.png)
 
 ---
 
 #### Screenshot 5 — Security audit report output
 
-Add your screenshot here.
+![](screenshots/Assing%204%20pics/scre%205.png)
 
 ---
 
@@ -94,7 +96,8 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — The full cost optimization report
 
-Add your screenshot here.
+![](screenshots/Assing%204%20pics/scre%206.png)
+
 
 ---
 
@@ -110,22 +113,22 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://github.com/HastiKabiri/Ultimate-Agentic-DevOps-with-Claude-Code.git 
 
 ---
 
 # Completion Checklist
 
-- [ ] `.claude/agents/` folder contains all 3 agent files
-- [ ] Screenshot 2 shows correct `security-auditor.md` configuration
-- [ ] Screenshot 3 shows correct `cost-optimizer.md` configuration
-- [ ] All 3 written answers completed 
-- [ ] Security auditor executed successfully
-- [ ] Cost optimizer executed successfully
-- [ ] Security report is visible with findings
-- [ ] Cost report is visible with recommendations
-- [ ] All required screenshots added
-- [ ] GitHub repo updated with agents
+- [✅] `.claude/agents/` folder contains all 3 agent files
+- [✅] Screenshot 2 shows correct `security-auditor.md` configuration
+- [✅] Screenshot 3 shows correct `cost-optimizer.md` configuration
+- [✅] All 3 written answers completed 
+- [✅] Security auditor executed successfully
+- [✅] Cost optimizer executed successfully
+- [✅] Security report is visible with findings
+- [✅] Cost report is visible with recommendations
+- [✅] All required screenshots added
+- [✅] GitHub repo updated with agents
 
 ---
 
