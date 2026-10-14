@@ -20,7 +20,7 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-Write your answer here.
+AWS account acts as a secure centralized means of accessing Amazon's cloud computing platform. With an AWS account, customers provision and manage resources such as virtual servers, storage, databases etc.  It is required at this stage for practical knowledge of cloud architectures, testing tools for Infrastructure as Code (IaC) such as terraform, deployment of real-world full-stack and serverless applications, and development of basic industry skills necessary for modern software development and DevOps.
 
 ---
 
