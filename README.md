@@ -60,7 +60,6 @@ This is not a course. It is an internship-style program — real deployments, re
 
 ---
 
-
 [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/)  [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
 
 <!-- Week 02 → Agentic AI with Claude Code -->
@@ -99,7 +98,6 @@ This is not a course. It is an internship-style program — real deployments, re
 <!-- Week 13 → Final Project / Capstone -->
 <!-- [![Week 13 – Capstone](./badges/week-13.svg)](./week-13-final-project/) -->
 
-
 ---
 
 ## Program Overview
@@ -119,8 +117,8 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed |✅ Solved | https://lnkd.in/p/ggEAmrKb | — |
-| 01 | Success Mindset | ✅ Completed | ✅ Solved |  https://www.linkedin.com/posts/hasti-kabiri-717551306_github-hastikabiridevops-micro-internship-activity-7503767750574743552-YF-y?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy  | https://medium.com/@hastikabiri9339/reflection-week-1-3143f31242f0
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://lnkd.in/p/gsaBSYid | https://medium.com/@hastikabiri9339/week-00-assignment-01-basic-understanding-of-internet-networking-tools-basics-2581e1f51a1d |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/hasti-kabiri-717551306_github-hastikabiridevops-micro-internship-activity-7503767750574743552-YF-y?utm_source=linkedin&utm_medium=member_desktop&utm_campaign=share_via | — |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
@@ -152,6 +150,6 @@ This is not a course. It is an internship-style program — real deployments, re
 If you found this repo useful or want to follow my DevOps journey:
 
 - ⭐ Star this repo
-- 🔗 Connect with me on [LinkedIn](#)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/hasti-kabiri-717551306/)
 - 🌐 Learn more about the program: https://dmi.pravinmishra.com?utm_source=github&utm_medium=readme
 - 💬 Join the community: https://discord.pravinmishra.com?utm_source=github&utm_medium=readme
