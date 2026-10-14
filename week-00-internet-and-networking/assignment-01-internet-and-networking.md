@@ -23,12 +23,10 @@ Take a screenshot of your interaction showing:
 
 ## Screenshot
 
-Save your screenshot in the `screenshots` folder and update the file name below.
+Save your screenshot in the `screenshots` folder.
 
 ![Task 1 Screenshot](screenshots/chatgpt.png)
 
-
-Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ---
 
@@ -96,12 +94,10 @@ EpicReads bookstore has two application versions:
 
 ## Diagram Screenshot / Photo
 
-Save your diagram image in the `screenshots` folder and update the file name below.
+Save your diagram image in the `screenshots` folder.
 
 ![Application Architecture Diagram](screenshots/diagram.png)
 
-
-Replace `task-3-diagram.png` with your actual diagram file name.
 
 ---
 
@@ -183,12 +179,10 @@ ls
 
 ## Screenshot
 
-Save your screenshot in the `screenshots` folder and update the file name below.
+Save your screenshot in the `screenshots` folder.
 
 ![VS Code Setup Screenshot](screenshots/vscode.png)
 
-
-Replace `task-5-vscode.png` with your actual screenshot file name.
 
 ---
 
@@ -225,7 +219,7 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here:
 
 ```
-https://lnkd.in/p/ggEAmrKb
+https://lnkd.in/p/gsaBSYid
 ```
 
 ---

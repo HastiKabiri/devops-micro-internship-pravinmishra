@@ -93,13 +93,13 @@ Initialize Terraform and execute the `/tf-plan` skill to observe plan execution 
 
 Paste your forked repository URL here:
 
-https://github.com/HastiKabiri/Ultimate-Agentic-DevOps-with-Claude-Code.git 
+https://github.com/HastiKabiri/devops-micro-internship
 
 ## LinkedIn post URL
 
-Paste your forked repository URL here:
+Paste your LinkedIn post URL here:
 
-https://lnkd.in/p/gn8dvBXb
+Pending — public URL not supplied yet
 
 ---
 
@@ -114,7 +114,7 @@ https://lnkd.in/p/gn8dvBXb
 - [✅] `/tf-plan` executed and output analyzed by Claude
 - [✅] All required screenshots added
 - [✅] GitHub repository URL included
-- [✅] LinkedIn post URL included
+- [ ] LinkedIn post URL included (pending — public URL not supplied yet)
 
 ---
 

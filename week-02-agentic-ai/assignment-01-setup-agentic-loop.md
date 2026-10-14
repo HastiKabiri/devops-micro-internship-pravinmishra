@@ -77,7 +77,6 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather â
 
 Paste your forked repository URL here:
 
-https://github.com/HastiKabiri/Web-portfolio
 https://github.com/HastiKabiri/devops-micro-internship
 
 ---
