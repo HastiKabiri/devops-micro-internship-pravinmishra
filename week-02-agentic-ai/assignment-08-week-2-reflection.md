@@ -54,7 +54,7 @@ Add your screenshot here.
 
 Blog Link:
 
-Pending — public URL not supplied yet
+https://medium.com/@hastikabiri9339/reflections-week-2-learning-to-work-smarter-with-agentic-ai-95cc3d09a5d9?sharedUserId=hastikabiri9339
 
 ---
 
@@ -92,7 +92,8 @@ Your post must include:
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+
+![](screenshots/assign%207/final%20linkedin.png)
 
 ---
 
@@ -101,14 +102,32 @@ Add your screenshot here.
 LinkedIn Post Content (copy-paste here):
 
 ```
-Paste your LinkedIn post content here
+- Week 2 of the DevOps Micro Internship -
+
+This week I discovered ways in which Agentic AI may be useful for optimizing engineering workflows.✨
+There were some concepts that I discovered, like Claude Code, CLAUDE.md, reusable skills, subagents, MCP, hooks, permissions, and memory⭐
+
+The most important lesson I learned is that automation not only saves time but also requires clear instructions, controlled access to tools, and reliable results.🎈
+
+I have also realized the significance of paying attention to detail, troubleshooting thoroughly, and keeping a record of my learning process.
+I want to put the insights gained into practice in my future projects and keep improving my skills in AI and DevOps.
+Thanks to Pravin Mishra for the learning opportunity!🫡
+
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://lnkd.in/gV8brnfF
+Start your DevOps journey: https://lnkd.in/gdae7uXA
+
+
+#DMIByPravinMishra #DevOps #AgenticAI #ClaudeCode #LearningJourney
+-Week 2, assignment 8
+
 ```
 
 ---
 
 ### LinkedIn Post Link:
 
-Pending — public URL not supplied yet
+https://lnkd.in/p/gdKp8k5i
 
 ---
 
@@ -124,15 +143,15 @@ Pending — public URL not supplied yet
 
 # Completion Checklist
 
-* [ ] Blog written with required structure
-* [ ] Blog includes at least 2–3 Week 2 topics
-* [ ] Blog is publicly accessible
-* [ ] LinkedIn post created
-* [ ] Required P.S. line included
-* [ ] LinkedIn post content copied in submission field
-* [ ] Blog link added
-* [ ] LinkedIn post link added
-* [ ] Screenshots added to GitHub repo
+* [✅] Blog written with required structure
+* [✅] Blog includes at least 2–3 Week 2 topics
+* [✅] Blog is publicly accessible
+* [✅] LinkedIn post created
+* [✅] Required P.S. line included
+* [✅] LinkedIn post content copied in submission field
+* [✅] Blog link added
+* [✅] LinkedIn post link added
+* [✅] Screenshots added to GitHub repo
 
 ---
 

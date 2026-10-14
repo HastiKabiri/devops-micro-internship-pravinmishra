@@ -155,7 +155,7 @@ Today’s Hasti proves how powerful self-belief can be when combined with learni
 
 
  P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Campus — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: 
- https://github.com/HastiKabiri/devops-micro-internship.git  · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3**
+ https://github.com/HastiKabiri/devops-micro-internship-pravinmishra.git  · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3**
 
 
 

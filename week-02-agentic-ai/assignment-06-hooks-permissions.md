@@ -125,7 +125,19 @@ Prove the logging hook runs after a successful command execution and records Ter
 
 ![](screenshots/Assign%206/scr%209.png)
 
+
+
 ---
+
+# Task 9 — Share Your AI Safety Achievement
+
+
+https://x.com/Hastidev/status/2107319437275906398?s=20
+
+---
+
+
+
 
 # Submission Instructions
 

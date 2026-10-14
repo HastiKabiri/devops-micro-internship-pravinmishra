@@ -26,13 +26,13 @@ AWS account acts as a secure centralized means of accessing Amazon's cloud compu
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
+Launched as a program designed to introduce cloud services to new users, the AWS Free Tier includes All Free services that remain available indefinitely, 12-Month Free services allowing new users to enjoy a limited amount of service per month for an entire year and short-term trials or credits (mostly lasting 6 months) available only to new accounts.
 
 ---
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
+The three well-known services offered by AWS Free Tier are Amazon EC2 (which allows the use of 750 hours of t2.micro or t3.micro Linux or Windows instance per month during the first 12 months) Amazon S3 (which provides 5 GB of standard storage, 20,000 requests to GET data, and 2,000 requests to PUT data during the first year) and AWS Lambda (which has a permanent Always Free service of 1 million requests and 400,000 GB of compute time every month).
 
 ---
 

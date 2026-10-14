@@ -101,6 +101,14 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 ---
 
+
+# Task 5 — Share Your AI Team Achievement on LinkedIn
+
+
+
+
+
+
 # Submission Instructions
 
 - Ensure all agent files are committed in `.claude/agents/`

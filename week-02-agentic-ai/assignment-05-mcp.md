@@ -83,6 +83,17 @@ Verify MCP functionality by retrieving real-time data from your GitHub account u
 
 ---
 
+
+---
+
+# Task 6 — Share Your MCP Achievement
+
+https://www.facebook.com/share/p/1DtxPHyUcF/
+
+
+---
+
+
 # Submission Instructions
 
 - Ensure `.mcp.json` is committed to your GitHub repository
