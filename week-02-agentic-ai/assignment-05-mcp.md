@@ -108,7 +108,7 @@ https://www.facebook.com/share/p/1DtxPHyUcF/
 
 Paste your forked repository URL here:
 
-https://github.com/HastiKabiri/devops-micro-internship
+https://github.com/HastiKabiri/Ultimate-Agentic-DevOps-with-Claude-Code
 
 ---
 
