@@ -91,7 +91,7 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 Paste your Linkedin post link here:
 
-https://lnkd.in/p/gd2DvhrF
+https://www.linkedin.com/posts/hasti-kabiri-717551306_dmibypravinmishra-agenticai-claudecode-activity-7513108356149018624-QvYl
 
 ---
 

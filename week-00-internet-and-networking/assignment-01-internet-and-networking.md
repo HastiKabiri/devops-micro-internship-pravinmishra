@@ -219,7 +219,15 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here:
 
 ```
-https://lnkd.in/p/gsaBSYid
+https://www.linkedin.com/posts/hasti-kabiri-717551306_github-hastikabiridevops-micro-internship-activity-7502768294228054016-ztge
+```
+
+---
+
+## Blog Post URL
+
+```
+https://medium.com/@hastikabiri9339/week-00-assignment-01-basic-understanding-of-internet-networking-tools-basics-2581e1f51a1d
 ```
 
 ---

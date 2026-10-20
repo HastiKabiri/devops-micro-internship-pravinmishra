@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![](screenshots/assign%208/screc%201.png)
 
 ---
 
@@ -127,7 +127,7 @@ Start your DevOps journey: https://lnkd.in/gdae7uXA
 
 ### LinkedIn Post Link:
 
-https://lnkd.in/p/gdKp8k5i
+https://www.linkedin.com/posts/hasti-kabiri-717551306_dmibypravinmishra-devops-agenticai-activity-7516008489652117504-Au1f
 
 ---
 
