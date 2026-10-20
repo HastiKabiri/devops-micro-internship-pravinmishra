@@ -114,9 +114,9 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | [✅ Solved](./week-00-internet-and-networking/assignment-01-internet-and-networking.md) | https://lnkd.in/p/gsaBSYid | https://medium.com/@hastikabiri9339/week-00-assignment-01-basic-understanding-of-internet-networking-tools-basics-2581e1f51a1d |
-| 01 | Success Mindset | ✅ Completed | [✅ Solved](./week-01-success-mindset/assignment-01-mindset-os.md) | https://www.linkedin.com/posts/hasti-kabiri-717551306_github-hastikabiridevops-micro-internship-activity-7503767750574743552-YF-y?utm_source=linkedin&utm_medium=member_desktop&utm_campaign=share_via | https://medium.com/@hastikabiri9339/the-local-magician-has-become-a-global-sensation-here-is-the-story-of-hasti-8aa9e32b9a26?sharedUserId=hastikabiri9339 |
-| 02 | Agentic AI with Claude Code | ✅ Completed | [✅ Solved](./week-02-agentic-ai/) | https://lnkd.in/p/gdKp8k5i | https://medium.com/@hastikabiri9339/reflections-week-2-learning-to-work-smarter-with-agentic-ai-95cc3d09a5d9?sharedUserId=hastikabiri9339 |
+| 00 | Internet & Networking Basics | ✅ Completed | [✅ Solved](./week-00-internet-and-networking/assignment-01-internet-and-networking.md) | https://www.linkedin.com/posts/hasti-kabiri-717551306_github-hastikabiridevops-micro-internship-activity-7502768294228054016-ztge | https://medium.com/@hastikabiri9339/week-00-assignment-01-basic-understanding-of-internet-networking-tools-basics-2581e1f51a1d |
+| 01 | Success Mindset | ✅ Completed | [✅ Solved](./week-01-success-mindset/assignment-01-mindset-os.md) | https://www.linkedin.com/posts/hasti-kabiri-717551306_github-hastikabiridevops-micro-internship-activity-7503767750574743552-YF-y?utm_source=linkedin&utm_medium=member_desktop&utm_campaign=share_via | https://medium.com/@hastikabiri9339/reflection-week-1-3143f31242f0 |
+| 02 | Agentic AI with Claude Code | ✅ Completed | [✅ Solved](./week-02-agentic-ai/) | https://www.linkedin.com/posts/hasti-kabiri-717551306_dmibypravinmishra-devops-agenticai-activity-7516008489652117504-Au1f | https://medium.com/@hastikabiri9339/reflections-week-2-learning-to-work-smarter-with-agentic-ai-95cc3d09a5d9?sharedUserId=hastikabiri9339 |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
