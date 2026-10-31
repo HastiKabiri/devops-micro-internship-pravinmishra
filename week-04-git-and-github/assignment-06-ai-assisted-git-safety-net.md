@@ -323,6 +323,8 @@ Publish a LinkedIn post summarizing what you built and what you learned about co
 #### LinkedIn Post URL
 
 https://lnkd.in/p/gMn_EsbD
+![](screenshots/Assign6/linkedin.png)
+
 
 ---
 
