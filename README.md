@@ -60,13 +60,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 ---
 
-[![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/)  [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)  [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)
-
-<!-- Week 03 → Linux & Bash for DevOps -->
-<!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
-
-<!-- Week 04 → Git & GitHub -->
-<!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/) -->
+[![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/)  [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)  [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)Week 03 → Linux & Bash for DevOps[![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)Week 04 → Git & GitHub[![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/) 
 
 <!-- Week 05 → DevOps Lifecycle & Agile -->
 <!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
@@ -117,9 +111,9 @@ This is not a course. It is an internship-style program — real deployments, re
 | 00 | Internet & Networking Basics | ✅ Completed | [✅ Solved](./week-00-internet-and-networking/assignment-01-internet-and-networking.md) | https://www.linkedin.com/posts/hasti-kabiri-717551306_github-hastikabiridevops-micro-internship-activity-7502768294228054016-ztge | https://medium.com/@hastikabiri9339/week-00-assignment-01-basic-understanding-of-internet-networking-tools-basics-2581e1f51a1d |
 | 01 | Success Mindset | ✅ Completed | [✅ Solved](./week-01-success-mindset/assignment-01-mindset-os.md) | https://www.linkedin.com/posts/hasti-kabiri-717551306_github-hastikabiridevops-micro-internship-activity-7503767750574743552-YF-y?utm_source=linkedin&utm_medium=member_desktop&utm_campaign=share_via | https://medium.com/@hastikabiri9339/reflection-week-1-3143f31242f0 |
 | 02 | Agentic AI with Claude Code | ✅ Completed | [✅ Solved](./week-02-agentic-ai/) | https://www.linkedin.com/posts/hasti-kabiri-717551306_dmibypravinmishra-devops-agenticai-activity-7516008489652117504-Au1f | https://medium.com/@hastikabiri9339/reflections-week-2-learning-to-work-smarter-with-agentic-ai-95cc3d09a5d9?sharedUserId=hastikabiri9339 |
-| 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
-| 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
-| 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
+| 03 | Linux & Bash for DevOps | ✅ Completed | [1](./week-03-linux-and-bash-for-devops/assignment-01-aws-free-tier-account-setup.md) · [2](./week-03-linux-and-bash-for-devops/assignment-02-deploy-a-react-app-on-ubuntu-vm-using-nginx.md) · [3](./week-03-linux-and-bash-for-devops/assignment-03-production-maintenance-drill-ops-checklist.md) · [4](./week-03-linux-and-bash-for-devops/assignment-04-deploy-epicreads-portfolio-website-via-nginx.md) · [5](./week-03-linux-and-bash-for-devops/assignment-05-bash-script-automation-drill-ops-checklist.md) · [6](./week-03-linux-and-bash-for-devops/assignment-06-ai-assisted-linux-health-check.md) | [1](https://lnkd.in/p/gESC7qhr)<br>[3](https://lnkd.in/p/gipUus7D)<br>[4](https://lnkd.in/p/g-jDQvJX)<br>[5](https://lnkd.in/p/g4ifPANg)<br>[6](https://lnkd.in/p/grw2M3Zj) | — |
+| 04 | Git & GitHub | ✅ Completed | [1](./week-04-git-and-github/assignment-01-codetrack-initial-git-setup.md) · [2](./week-04-git-and-github/assignment-02-codetrack-tracking-staging-committing-deploy-ec2.md) · [3](./week-04-git-and-github/assignment-03-codetrack-branching-workflow-contact-page.md) · [4](./week-04-git-and-github/assignment-04-github-account-and-professional-profile.md) · [5](./week-04-git-and-github/assignment-05-github-fork-clone-sync-pull-request.md) · [6](./week-04-git-and-github/assignment-06-ai-assisted-git-safety-net.md) | [2](https://lnkd.in/p/gRmDF82n)<br>[5](https://lnkd.in/p/gUEP7Z3v)<br>[6](https://lnkd.in/p/gMn_EsbD) | — |
+| 05 | DevOps Lifecycle & Agile | 🔄 In Progress | [1](./week-05-devops-lifecycle/assignment-01-create-your-jira-account-and-setup-profile.md) · [2](./week-05-devops-lifecycle/assignment-02-stand-up-scrum-in-jira-for-dmi-website.md) | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
