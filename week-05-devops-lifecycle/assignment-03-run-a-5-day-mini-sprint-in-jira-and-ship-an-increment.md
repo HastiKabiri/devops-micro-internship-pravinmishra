@@ -20,13 +20,13 @@ Create the footer Story (`Add footer with version and deploy date`, 1 point, `fr
 
 #### Screenshot 1 — Sprint 1 created with the Story inside it
 
-Add your screenshot here.
+![](screenshots/Assign%203/1.png)
 
 ---
 
 #### Screenshot 2 — Active Sprint board showing the Sprint Goal
 
-Add your screenshot here.
+![](screenshots/Assign%203/2.png)
 
 ---
 
@@ -40,25 +40,25 @@ Add the required footer text (`Pravin Mishra Portfolio v1.0 — Deployed on <DD 
 
 #### Screenshot 3 — Jira board showing the Day 1 Sub-task in Done
 
-Add your screenshot here.
+![](screenshots/Assign%203/3.png)
 
 ---
 
 #### Screenshot 4 — Successful Git commit output
 
-Add your screenshot here.
+![](screenshots/Assign%203/4.png)
 
 ---
 
 #### Screenshot 5 — EC2 browser view showing the complete footer text, with the URL visible
 
-Add your screenshot here.
+![](screenshots/Assign%203/5.png)
 
 ---
 
 #### Screenshot 6 — Jira Story comment showing the Day 1 Daily Scrum update
 
-Add your screenshot here.
+![](screenshots/Assign%203/6.png)
 
 ---
 
@@ -72,26 +72,25 @@ Update the footer so the deployment date is generated automatically (or updated 
 
 #### Screenshot 7 — Code editor showing the footer and date logic or deployment-time template snippet
 
-Add your screenshot here.
+![](screenshots/Assign%203/7.png)
 
 ---
 
 #### Screenshot 8 — EC2 browser view showing the updated footer with the current date
 
-Add your screenshot here.
+![](screenshots/Assign%203/8.png)
 
 ---
 
 #### Screenshot 9 — README snippet documenting the footer and date behavior
 
-Add your screenshot here.
+![](screenshots/Assign%203/8.png)
 
 ---
 
 #### Screenshot 10 — Jira Story comment showing the Day 2 Daily Scrum update
 
-Add your screenshot here.
-
+![](screenshots/Assign%203/10.png)
 ---
 
 # Task 4 — Day 3: Polish the Footer and Validate Accessibility
@@ -204,17 +203,17 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1: Sprint 1 started with the required Sprint Goal (Screenshots 1 & 2)
-- [ ] Task 2: Day 1 footer implemented, committed, and deployed (Screenshots 3–6)
-- [ ] Task 3: Day 2 deploy date made dynamic and documented (Screenshots 7–10)
-- [ ] Task 4: Day 3 footer polished and validated on desktop and mobile (Screenshots 11–13)
-- [ ] Task 5: Day 4 DMI Website call-to-action deployed and clickable (Screenshot 14)
-- [ ] Task 6: Day 5 demo, retrospective, and Burndown evidence completed (Screenshots 15–17, video URL)
-- [ ] Daily Scrum comments posted for Days 1–5
-- [ ] LinkedIn post published with the GitHub URL, EC2 URL, required delivery details, and proof image
-- [ ] LinkedIn Post URL and LinkedIn Screenshot 1 included
-- [ ] Full Name visible in required screenshots
-- [ ] No sensitive data exposed
+- [✅] Task 1: Sprint 1 started with the required Sprint Goal (Screenshots 1 & 2)
+- [✅] Task 2: Day 1 footer implemented, committed, and deployed (Screenshots 3–6)
+- [✅] Task 3: Day 2 deploy date made dynamic and documented (Screenshots 7–10)
+- [✅] Task 4: Day 3 footer polished and validated on desktop and mobile (Screenshots 11–13)
+- [✅] Task 5: Day 4 DMI Website call-to-action deployed and clickable (Screenshot 14)
+- [✅] Task 6: Day 5 demo, retrospective, and Burndown evidence completed (Screenshots 15–17, video URL)
+- [✅] Daily Scrum comments posted for Days 1–5
+- [✅] LinkedIn post published with the GitHub URL, EC2 URL, required delivery details, and proof image
+- [✅] LinkedIn Post URL and LinkedIn Screenshot 1 included
+- [✅] Full Name visible in required screenshots
+- [✅] No sensitive data exposed
 
 ---
 
